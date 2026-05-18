@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-claim-adjudicator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "claims",
+    "adjudication",
+    "benefits",
+    "deductible",
+    "copay",
+    "fintech"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
